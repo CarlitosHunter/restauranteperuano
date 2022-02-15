@@ -1,0 +1,239 @@
+@charset "UTF-8";
+/* CSS Document */
+#contenedor{
+    height: 2740px;
+    background: white;
+    margin-top: -15px;
+}
+.caja {
+    padding-top: 25px;
+    padding-left: 15px;
+    width: 1350px;
+    height: 260px;
+    display: block;
+}
+#img-lomo{
+    width: 350px;
+    margin-left: 55px;
+}
+#lomo-h1{
+    margin-left: 490px;
+    margin-top: -200px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+}
+
+#lomo-h2{
+    font-size: 24pt;
+    margin-left: 1190px;
+    margin-top: -70px;
+    font-weight: bold;
+}
+
+#lomo-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 494px;
+    width: 797px;
+}
+
+#img-causa{
+    margin-left: 55px;
+    width: 500px;
+}
+#causa-h1{
+    margin-left: 640px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+}
+#causa-h2{
+    margin-left: 1190px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+#causa-p{
+       margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 645px;
+    width: 640px;
+}
+#img-papa{
+    width: 400px;
+    margin-left: 55px;
+}
+#papa-h1{
+    margin-left: 540px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+}
+#papa-h2{
+    margin-left: 1210px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+#papa-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 540px;
+    width: 750px;
+}  
+#img-ceviche{
+    width: 210px;
+    margin-left: 55px;
+}
+
+#ceviche-h1{
+    margin-left: 340px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+}
+#cevh2{
+    margin-left: 1190px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -73px;
+}
+#ceviche-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 350px;
+    width: 750px
+}
+#img-arroz{
+    width: 390px;
+    margin-left: 55px;
+}
+#arroz-h1{
+    margin-left: 540px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+}
+#arroz-h2{
+    margin-left: 1190px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+#arroz-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 540px;
+    width: 750px;
+}
+#img-areo{
+    margin-left: 55px;
+    width: 340px
+}
+#aero-h1{
+    margin-left: 470px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;    
+}
+#aero-h2{
+    margin-left: 1190px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+#aero-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 470px;
+    width: 750px;
+}
+#img-aji{
+    margin-left: 55px;
+    width: 410px;
+}
+#pahua-h1{
+    margin-left: 540px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+}
+#pahua-h2{
+    margin-left: 1190px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+#pahua-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 540px;
+    width: 750px;
+}
+#img-tamal{
+    margin-left: 55px;
+    width: 350px;
+}
+#tamal-h1{
+    margin-left: 470px;
+    margin-top: -180px;
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;    
+}
+#tamal-h2{
+    margin-left: 1190px;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+#tamal-p{
+    margin-top: 39px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: justify;
+    margin-left: 470px;
+    width: 820px;
+}
+.caja_cocteles{
+    margin-top: 121px;
+    width: 683px;
+    float: left;
+    text-align: center;
+}
+.caja_Postres{
+    margin-top: 100px;
+    width: 683px;
+    float: right
+}
+#h1-coctel{
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+#h1-coctel2{
+    font-size: 34pt;
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 5px;
+}
+#coctel{
+    text-align: center
+}
+.caja_Postres {
+}

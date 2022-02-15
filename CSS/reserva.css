@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+#contenedor{
+    height: 900px;
+}
+#resserva{
+    width: 900px;
+    background: #BFBFBF;
+    height: 841px;
+    margin-left: 225px;
+    margin-top: 50px;
+}
+#res1{
+    width: 700px;
+    background-color: #FFFFFF;
+    margin-left: 100px;
+    margin-top: 40px;
+    height: 90px;
+}
+#normal{
+    width: 153px;
+    margin-top: 35px;
+    margin-left: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: bolder;
+    float: left;
+}
+#rojo{
+    width: 185px;
+    margin-top: 35px;
+    margin-left: 50px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-weight: bold;
+    color: #EF0408;
+    float: left;
+}
+#boton{
+    width: 150px;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    height: 40px;
+    padding-top: 20px;
+    border-radius: 7px;
+    background-color: #F5CB52;
+    float: right;
+    margin-top: 15px;
+    margin-right: 50px;
+}#boton:hover{
+    background: white;
+    border: solid gold;
+    color: goldenrod;
+}
+#resdato{
+    margin-top: 25px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-align: center;
+}

@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+#contenedor{
+height: 3550px    
+}
+a{
+    text-decoration: none
+}
+
+#Lista_menu{
+    font-size: 24pt;
+    text-align: center;
+    font-style: normal;
+    font-weight: lighter;
+}
+#Lista_menu li{
+    display: inline;
+    margin: 0 20px;
+    font-style: normal;
+    font-weight: lighter;
+}
+#Lista_menu li a{
+    color: black; 
+}
+#Lista_menu li a:hover{
+    color: goldenrod;
+}
+#dia{
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-align: center;
+    color: red;
+}
+#h{
+    margin-left: 330px;
+    color: goldenrod
+}
+#der{
+    margin-left: 360px;
+    width: 709px;
+}
+#izq{
+    text-align: right;
+    margin-right: 330px;
+    padding-bottom: 60px;
+}
+#izq a{
+    text-decoration: none;
+    color:green;
+}
+#izq a:hover{
+    text-decoration: none;
+    color:red;
+}

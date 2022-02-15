@@ -1,0 +1,161 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+body{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    background: #EFEFEF;
+    -webkit-box-shadow: 3px 3px 10px 1px #979797;
+    box-shadow: 3px 3px 10px 1px #979797;
+	cursor:url("../monkey_Icono.png")pointer;
+}
+/*cabecera*/
+#cabecera{
+	height: 330px;
+	background: red;
+}
+/*navegacion*/
+#Navega{
+    margin-top: -10px;
+}
+#Navega ul {
+    height: 50px;
+    list-style: none;
+	overflow: hidden;
+	background: black;
+	font: 14px;
+}
+#Navega li{
+	float: left;
+	margin-left: 10px;
+    margin-right: 10px;
+}
+#Navega li a{
+	padding:17px;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
+#Navega ul li a:link:hover, #Navega ul li a:visited:hover {
+    color: gold;
+    background: black; 
+	
+}
+#Navega ul li a#actual{
+    color: black;
+    padding-top: 10;
+    padding-bottom: 19px;
+    background: white;
+    border-bottom: 5px, solid #FFD700;
+}
+table{
+
+}
+/*imagenes de icono*/
+#icono{
+    width: 44px;
+}
+
+/*pie*/
+#footer{
+    background: black;
+    overflow: hidden;
+    display: inline;
+    text-align: center;
+
+}
+#footer h3{
+    font: bold;
+    font-size: 20px;    
+}
+
+#footer #datos{
+	background: black;
+	width: 455px;
+	height: 500px;
+    float: left;
+    color: white;
+    text-align: center;    
+}
+#footer #datos .pie{
+    margin-top: 90px;
+    
+}
+
+#footer #datos2{
+    background: black;
+    width: 455px;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+#footer #datos2  ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: medium;
+    margin-top: 45px;
+}
+#footer #datos2 ul li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#footer #datos2 li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+#footer #datos2 ul li a:hover{
+    color: gold;
+}
+#footer  #datos2 ul li a#actual{
+	color: gray;
+}
+#footer #datos2 #icono {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 34px;
+}
+
+#footer .mapa{
+    background: black;
+    color:white;
+    text-align:center;
+    width: 455px;
+    height: 500px;
+    float: left;
+}
+#footer .mapa .pie {
+    margin-top: 40px;
+}
+#PieRe  {
+    background: black;
+    width: 1365px;
+    height: 60px;
+    float: left;
+}
+#PieRe a{
+	color: gold;
+	font: bold;
+	font-size: 30px;
+    text-decoration: none;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+    margin-left: 30px;
+}
+#PieRe  a:link:hover, #PieRe a:visited:hover {
+	color: black;
+	background: white;
+	border-radius: 20px;
+	
+}

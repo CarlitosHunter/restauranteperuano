@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenedor{
+    height: 900px;
+}
+#miname{
+    text-align: center;
+    font-size: 70px;
+}
+#micareto{
+    width: 300px;
+    margin-left: 530px;
+    margin-top: -18px;
+}
+#milabor{
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 18pt;
+}
+#text{
+    width: 620px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: left;
+    margin-left: 380px;
+}
+#text2{
+    width: 620px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: left;
+    margin-left: 380px;
+}
+#text3{
+    width: 620px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: left;
+    margin-left: 380px;
+}
+#text4{
+    width: 620px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: left;
+    margin-left: 380px;
+}
+#fin{
+    width: 620px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: right;
+    margin-left: 380px;
+}
